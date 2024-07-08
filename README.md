@@ -25,3 +25,5 @@ Contact
 For questions or suggestions, reach out via GitHub Issues.
 
 thank you all my batchmates for your memories !
+
+They were worth a lot !
